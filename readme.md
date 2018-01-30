@@ -1,4 +1,4 @@
-#strcmp.py
+# strcmp.py
 analyze files and strings in various ways - 
 looking to expand on the type and variety of algorithms used to string match.
 
